@@ -1,3 +1,3 @@
 # best-repo-ever
 First commit example
-First commit for new branch 2 test
+First commit for new now branch 1 test
